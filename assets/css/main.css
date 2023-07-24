@@ -87,14 +87,15 @@ input, select, textarea {
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
+	-moz-animation: none !important;
+	-webkit-animation: none !important;
+	-ms-animation: none !important;
+	animation: none !important;
+	-moz-transition: none !important;
+	-webkit-transition: none !important;
+	-ms-transition: none !important;
+	transition: none !important;
+	font-family: Arial, Helvetica, sans-serif;
 		}
 
 	body, input, select, textarea {
@@ -116,8 +117,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+	border-bottom-color: transparent;
+	color: #000;
 		}
 
 	strong, b {
@@ -3317,3 +3318,49 @@ input, select, textarea {
 			}
 
 	}
+.is-preload .container .features article .container h4 strong {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features article .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features article .container ul li {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p strong {
+	color: #000;
+}
+.is-preload .container .features .inner .container h4 strong {
+	color: #000;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p span {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container .container span {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.is-preload .container .features .inner .container p {
+	font-family: Arial, Helvetica, sans-serif;
+}
